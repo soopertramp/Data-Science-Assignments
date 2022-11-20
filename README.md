@@ -1,5 +1,5 @@
 # Assignments
-Assignments completed by me from my Full Stack Data Specialisation course
+<b>Assignments completed by me from my Full Stack Data Specialisation course</b>
 
 
 <p align="center"> 
