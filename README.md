@@ -1,4 +1,4 @@
-# Assignments
+## :book: Assignments
 <b>Assignments completed by me from my Full Stack Data Specialisation course</b>
 
 
